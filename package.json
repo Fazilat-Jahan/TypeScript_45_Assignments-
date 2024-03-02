@@ -1,5 +1,5 @@
 {
-  "name": "assingment7",
+  "name": "assingment8",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.19"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
