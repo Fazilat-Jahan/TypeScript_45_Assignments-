@@ -2,7 +2,7 @@
   "devDependencies": {
     "@types/node": "^20.11.24"
   },
-  "name": "38cities",
+  "name": "39citiesnames",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
