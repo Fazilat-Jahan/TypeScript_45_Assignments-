@@ -1,13 +1,11 @@
 {
-  "devDependencies": {
+  "dependencies": {
     "@types/node": "^20.11.24"
   },
-  "name": "39citiesnames",
+  "name": "40magicalbum",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {
-    "undici-types": "^5.26.5"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
