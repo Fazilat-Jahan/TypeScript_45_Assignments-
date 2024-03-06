@@ -2,7 +2,7 @@
   "dependencies": {
     "@types/node": "^20.11.24"
   },
-  "name": "42greatmagicians",
+  "name": "43unchangedmagic",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
